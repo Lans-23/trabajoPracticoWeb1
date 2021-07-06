@@ -1,0 +1,201 @@
+.paginaconpadding {
+    padding: 20px;
+}
+
+body {
+    background-color: #FAFAFA;
+    text-justify: auto;
+    color: #ff8216;
+    padding-top: 70px;
+    font-size: 1em;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    display: inline;
+    color: #5e5956;
+    text-align: center;
+    border-radius: 40px;
+    padding: 5px 15px;
+    font-size: 2em;
+    font-family: 'Roboto Black', sans-serif;
+}
+
+h2 {
+    display: inline;
+    color: #ff8216;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px 15px;
+    box-shadow: 2px 2px 5px #DDDDDD;
+    font-size: 1.50em;
+    font-family: 'Roboto Black', sans-serif;
+}
+
+h3 {
+    font-size: 1.25em;
+    font-family: 'Roboto Thin', sans-serif;
+    text-align: left;
+}
+
+#cuerpoespecificaciones {
+    margin-top: 50px;
+}
+
+.especificacionesarticulo {
+    box-shadow: 12px 12px 2px 1px #DDDDDD;
+    border-radius: 5px;
+    height: 215px;
+    margin-top: 50px;
+    background-color: #FFFFFF;
+}
+
+.especificacionesimagen {
+    margin: 25px;
+    box-shadow: 2px 2px 5px #E6ABC3;
+}
+
+.navbar {
+    background-color: #ff8216;
+    box-shadow: 5px 5px 5px #DDDDDD;
+    font-size: 1em;
+    font-family: 'Roboto Thin', sans-serif;
+}
+
+.navbar a {
+    color: #F8F8F8;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+}
+
+.navbar a:hover {
+    background-color: #ffffff;
+    color: #ff8216;
+}
+
+.navbar a:active {
+    background-color: #ff8216;
+    color: #ffffff;
+}
+
+a {
+    color: #ffffff;
+}
+
+.navbar-toggler-icon {
+    background-image: url(../imagenes/botonhamburguesa.png);
+}
+
+.navbar-toggler-icon:active {
+    background-image: url(../imagenes/botonhamburguesacierre.png);
+}
+
+#micarousel {
+    box-shadow: 10px 10px 10px #D6D6D6;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+#indeximagenmobil {
+    box-shadow: 10px 10px 10px #D6D6D6;
+    padding: 0px;
+}
+
+.galeriadivcards {
+    padding: 30px;
+}
+
+.card {
+    box-shadow: -10px -10px 10px #AFAFAF;
+    margin-top: 5px;
+}
+
+#textomain {
+    margin-top: 50px;
+    padding-top: 10px;
+    box-shadow: 6px 6px 2px 1px #DDDDDD;
+    background-color: #FFD4E7;
+    color: #ff8216;
+    border-radius: 25px;
+}
+
+p {
+    margin-top: 15px;
+}
+
+footer {
+    background-color: #ff8216;
+    color: #FFBAD9;
+    height: 30px;
+    font-family: 'Roboto Thin', sans-serif;
+    box-shadow: 1px -px 1px #DDDDDD;
+}
+
+footer p {
+    float: right;
+    padding-right: 10px;
+    margin-top: 0px;
+}
+
+footer a {
+    float: right;
+    padding-right: 10px;
+}
+
+footer a:active {
+    color: #ffffff;
+}
+
+footer a:hover {
+    color: #ffffff;
+}
+
+.linkcancer {
+    position: absolute;
+    color: #FFD4E7;
+    width: 50%;
+    text-align: center;
+}
+
+.linkcancer:hover {
+    background-color: #ffffff;
+    color: #ff8216;
+}
+
+.contactoimagen {
+    padding: 5px;
+    box-shadow: 4px 4px 2px 1px #DDDDDD;
+}
+
+.contactosections {
+    margin-top: 30px;
+}
+
+.contactoh3 {
+    margin-top: 30px;
+}
+
+.contactoiconos {
+    margin: 30px 0px;
+}
+
+.contactoh2 {
+    box-shadow: 4px 4px 2px 1px #DDDDDD;
+}
+
+#center {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+
+
+
+.centro {
+    margin-left:145px;
+}
+
