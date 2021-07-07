@@ -23,7 +23,7 @@ h1 {
 h2 {
    
     color: #ff8216;
-    text-align: right;
+    text-align: left;
     padding: 10px 5px;
     font-size: 1.50em;
     font-family: 'Roboto Black', sans-serif;
@@ -49,8 +49,9 @@ h3 {
 }
 
 .especificacionesimagen {
-    margin: 20px;
-   
+    margin-top: 3px;
+    margin-right: 20px;
+    margin-left: 5px;
 }
 
 .navbar {
@@ -85,7 +86,7 @@ a {
     background-image: url(../imagenes/botonhamburguesa.png);
 }
 
-.navbar-toggler-icon:active {
+.navbar-toggler-icon:hover {
     background-image: url(../imagenes/botonhamburguesacierre.png);
 }
 
@@ -108,8 +109,7 @@ a {
 }
 
 .card {
-    box-shadow: -10px -10px 10px #AFAFAF;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 #textomain {
@@ -173,20 +173,16 @@ footer a:hover {
 }
 
 .contactosections {
-    margin-top: 30px;
+    text-align: center;
 }
 
-.contactoh3 {
-    margin-top: 30px;
-}
+
 
 .contactoiconos {
     margin: 30px 0px;
 }
 
-.contactoh2 {
-    box-shadow: 4px 4px 2px 1px #DDDDDD;
-}
+
 
 .centrado {
   margin: auto;
@@ -194,10 +190,10 @@ footer a:hover {
   padding: 30px;
 }
 
-.centro {
-    margin-left:145px;
+
+.espacio {
+    
+    margin-top: 30px;
 }
-
-
 
 
